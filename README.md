@@ -103,8 +103,8 @@ This repository documents my progress — from **beginner to advanced Python pro
 ---
 
 ## 🌟 Connect with Me 
-🌐 **GitHub:** [github.com/yourusername](https://github.com/AishwaryaTS-cloud)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aishwarya-t-s-61b3b4354/)
+🌐 **GitHub:** [github.com/AishwaryaTS-cloud](https://github.com/AishwaryaTS-cloud)  
+💼 **LinkedIn:** [linkedin.com/in/Aishwarya-T-S](https://www.linkedin.com/in/aishwarya-t-s-61b3b4354/)
 
 > “Code, Learn, and Build — One Day at a Time 💻🔥”
 
